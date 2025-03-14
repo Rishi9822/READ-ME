@@ -15,8 +15,6 @@ Hello 👋🏼, I'm Rishi Patel<br>👯 looking to make new connections<br>🌱 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rishi9822&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rishi9822&limit=5&theme=dark&combine_all_yearly_contributions=true)
